@@ -1,0 +1,8 @@
+up:k
+down:j
+right:l
+left:h
+delete_until_end_of_line:C
+end_of_chunk:}
+delete:d
+delete_line:dd
